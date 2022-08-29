@@ -402,7 +402,8 @@
         "nets": [
           "/3.3V",
           "/5V",
-          "/POWER_OUT"
+          "/POWER_OUT_BOTTOM",
+          "/POWER_OUT_TOP"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
