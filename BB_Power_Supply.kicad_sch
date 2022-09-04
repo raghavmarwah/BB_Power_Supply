@@ -8,7 +8,10 @@
     (title "Breadboard Power Supply")
     (date "2022-08-27")
     (rev "1")
-    (comment 1 "Raghav Marwah")
+    (comment 1 "Project #1, KiCad Like a Pro Udemy course")
+    (comment 2 "Breadboard Power Supply")
+    (comment 3 "github.com/raghavmarwah")
+    (comment 4 "raghavmarwah.com")
   )
 
   (lib_symbols
